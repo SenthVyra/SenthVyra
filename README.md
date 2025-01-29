@@ -10,7 +10,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/senthvyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senthvyra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/senthalanvyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthvyra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/senthvyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senthvyra" height="30" width="40" /></a>
 <a href="https://fb.com/senthvyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senthalanvyra" height="30" width="40" /></a>
 <a href="https://instagram.com/senthvyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senthalanvyra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/senth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="senth" height="30" width="40" /></a>
