@@ -3,7 +3,7 @@
 <div align="right" dir="auto">
 </div>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
-<div> <style>
+<div><a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=senthvyra" target="_blank">Follow on LinkedIn</a> </div> <style>
         .libutton {
           display: flex;
           flex-direction: column;
