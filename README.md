@@ -3,8 +3,7 @@
 <div align="right" dir="auto">
 </div>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
-
-<style>
+<div> <style>
         .libutton {
           display: flex;
           flex-direction: column;
@@ -21,7 +20,8 @@
           font-family: "SF Pro Text", Helvetica, sans-serif;
         }
  </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=senthvyra" target="_blank">Follow on LinkedIn</a>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=senthvyra" target="_blank">Follow on LinkedIn</a> </div>
+
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=senthvyra&label=Profile%20views&color=0e75b6&style=flat" alt="senthvyra" /> </p>
 
