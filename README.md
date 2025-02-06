@@ -6,7 +6,6 @@
 </div>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=senthvyra&label=Profile%20views&color=0e75b6&style=flat" alt="senthvyra" /> </p>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/senthvyra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senthvyra" height="30" width="40" /></a>
