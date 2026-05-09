@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="45" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Senth Vyra</h1>
 
 <p align="center">
