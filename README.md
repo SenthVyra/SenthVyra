@@ -45,7 +45,6 @@
 <a href="https://youtube.com/@senth">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40"/>
 </a>
-  
   <a href="https://www.tiktok.com/@senthvyra">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="40"/>
   </a>
