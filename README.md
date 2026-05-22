@@ -25,27 +25,31 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/senthvyra">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-  </a>
-  <a href="https://linkedin.com/in/senthvyra">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://facebook.com/senthvyra">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
-  </a>
-  <a href="https://instagram.com/senthvyra">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-  <a href="https://youtube.com/@senth">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40"/>
-  </a>
+  
   <a href="https://x.com/senthvyra">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40"/>
   </a>
+  
+  <a href="https://linkedin.com/in/senthvyra">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  
+  <a href="https://facebook.com/senthvyra">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40"/>
+  </a>
+  
+  <a href="https://instagram.com/senthvyra">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  
+  <a href="https://youtube.com/@senth">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" height="40"/>
+  </a>
+  
   <a href="https://www.tiktok.com/@senthvyra">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" height="40"/>
   </a>
+
 </p>
 
 ---
@@ -62,5 +66,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=senthvyra&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=senthvyra&theme=tokyonight" />
+</p>
+
+---
+
+### ✨ Quote
+
+<p align="center">
+  <i>"From war-zone dust to digital dreams — still building."</i>
 </p>
