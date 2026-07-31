@@ -19,9 +19,9 @@
 
 ### 🚀 About Me
 
-- 💻 Software Engineer & Co-Founder of **[HABB Global](https://habb.lk)** (Pvt) Ltd — Jaffna, Sri Lanka 🇱🇰
+- 💻 Software Engineer, Co-Founder & CEO of **[HABB Global](https://habbglobal.com)** (Pvt) Ltd.
 - 🌍 Building products across Web, Mobile, Cloud & AI — with a presence in Sri Lanka, Switzerland, the UK, Canada & Thailand
-- 🎓 B.Sc (Hons) in IT, SLIIT — published AI/NLP research at IEEE ICECET 2024
+- 🎓 B.Sc (Hons) in IT, SLIIT — published AI/NLP research at **[IEEE ICECET 2024](https://ieeexplore.ieee.org/author/291702106974347)**
 - 🎥 YouTube partner & content creator, wearing both an engineer's and a creator's hat
 - 🎯 Mission: build scalable, real-world products for emerging markets
 
@@ -34,21 +34,28 @@
 | **[HABB Digi](https://www.habbglobal.com/digi)** | Full-service digital marketing: SEO, paid ads, social media & content to drive growth |
 | **[HABB AI](https://www.habbglobal.com/habb-ai)** | Custom AI agents & automation: workflows, chat agents & predictive analytics |
 | **[HABB Flow](https://www.habbglobal.com/flow)** | Intelligent email automation for incoming requests and quotations |
-| **[HABBGate](https://www.habbglobal.com/habbgate)** | Access control hardware & software for secure entry, attendance & visitor management |
+| **[HABB Gate](https://www.habbglobal.com/habbgate)** | Access control hardware & software for secure entry, attendance & visitor management |
 | **[HABB Connect](https://www.habbglobal.com/connect)** | CRM platform for managing client relationships, leads & sales pipeline |
 | **[HABB One](https://www.habbglobal.com/one)** | Enterprise resource planning for unified finance, inventory, HR & operations |
 | **[HABB Stay](https://www.habbglobal.com/stay)** | Hotel management platform for bookings & operations |
 | **[HABB POS](https://www.habbglobal.com/pos)** | Point-of-sale system for retail & hospitality |
-| **[HABB EdGrow](https://edgrow.lk)** | EdTech platform for growth & learning *(started here as a volunteer, education-focused)* |
-| **OOIVU** | Hotel booking & website platform used across Sri Lanka *(where I stepped into a marketing role)* |
+| **[HABB EdGrow](https://habb.edgrow.lk)** | EdTech platform for growth & learning *(started here as a volunteer, education-focused)* |
+| **OOIVU** | Hotel management SaaS by Innovay, used by hotels across Sri Lanka *(where I led marketing, Oct 2025 – Jan 2026)* |
 
 <br>
 
 ### 💼 Experience
 
-- **Co-Founder & Software Engineer** — HABB Global (Pvt) Ltd · *ongoing*
-- **Marketing Lead** — OOIVU, under HABB · went from writing code to running marketing & client growth for OOIVU's hotel clients across Sri Lanka
-- **Volunteer, Education** — HABB EdGrow · early contributor helping shape EdGrow's education-growth initiatives
+- **Co-Founder & CEO** — HABB Global · *Jan 2026 – Present*
+- **Technical Lead** — HABB Switzerland · *Jan 2026 – Present*
+- **Software Engineer** — HABB Global · *Mar 2025 – Present*
+- **Marketing Lead** — Innovay (Ooivu, hotel management SaaS) · *Oct 2025 – Jan 2026* · led digital strategy & on-ground brand execution, from campaign design to hands-on hotel demos
+- **Software Engineer** — Bohar Solutions · *Dec 2024 – Feb 2025*
+- **Associate Software Engineer** — Bohar Solutions · *Oct 2023 – Dec 2024*
+- **Intern Software Engineer** — EWIS Career Training (Pvt) Ltd · *Mar 2023 – Sep 2023* · R&D dept, built payment & HRM systems
+- **Digital Marketing** — Multivisa Service Canada · *Dec 2022 – Sep 2023*
+- **YouTube Partner** — Self-employed · *Jun 2020 – Dec 2022*
+- **Founder** — Senth Inc. · *Jul 2014 – Nov 2022*
 - **B.Sc (Hons) Information Technology** — SLIIT
 
 <br>
