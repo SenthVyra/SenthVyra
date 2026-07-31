@@ -27,18 +27,29 @@
 
 <br>
 
-### 🛠️ What I'm Building at HABB Global
+### 🛠️ What We're Building at HABB Global
 
 | Product | Description |
 |---|---|
-| **HABBGate** | Access & entry management system |
-| **HABB One** | Business management platform (live in Switzerland) |
-| **HABB Connect** | Communication & connectivity solution |
-| **24hours.lk** | Unified service-discovery & booking platform for Sri Lanka |
-| **ParcelBuddy** | Logistics & parcel management |
-| **HABB EdGrow** | EdTech for growth & learning |
-| **OOIVU** | *(product in development)* |
-| **BrainBots** | AI/automation solutions |
+| **[HABB Digi](https://www.habbglobal.com/digi)** | Full-service digital marketing: SEO, paid ads, social media & content to drive growth |
+| **[HABB AI](https://www.habbglobal.com/habb-ai)** | Custom AI agents & automation: workflows, chat agents & predictive analytics |
+| **[HABB Flow](https://www.habbglobal.com/flow)** | Intelligent email automation for incoming requests and quotations |
+| **[HABBGate](https://www.habbglobal.com/habbgate)** | Access control hardware & software for secure entry, attendance & visitor management |
+| **[HABB Connect](https://www.habbglobal.com/connect)** | CRM platform for managing client relationships, leads & sales pipeline |
+| **[HABB One](https://www.habbglobal.com/one)** | Enterprise resource planning for unified finance, inventory, HR & operations |
+| **[HABB Stay](https://www.habbglobal.com/stay)** | Hotel management platform for bookings & operations |
+| **[HABB POS](https://www.habbglobal.com/pos)** | Point-of-sale system for retail & hospitality |
+| **[HABB EdGrow](https://edgrow.lk)** | EdTech platform for growth & learning *(started here as a volunteer, education-focused)* |
+| **OOIVU** | Hotel booking & website platform used across Sri Lanka *(where I stepped into a marketing role)* |
+
+<br>
+
+### 💼 Experience
+
+- **Co-Founder & Software Engineer** — HABB Global (Pvt) Ltd · *ongoing*
+- **Marketing Lead** — OOIVU, under HABB · went from writing code to running marketing & client growth for OOIVU's hotel clients across Sri Lanka
+- **Volunteer, Education** — HABB EdGrow · early contributor helping shape EdGrow's education-growth initiatives
+- **B.Sc (Hons) Information Technology** — SLIIT
 
 <br>
 
@@ -50,20 +61,21 @@
 
 <br>
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=senthvyra&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senthvyra&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=senthvyra&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=senthvyra&theme=tokyonight" />
-</p>
+<br>
+
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senthvyra&theme=tokyo-night" />
+  <img src="https://raw.githubusercontent.com/senthvyra/senthvyra/output/github-contribution-grid-snake.svg" />
 </p>
+
+<sub>ℹ️ The snake needs a one-time GitHub Action to generate — see the note below the README.</sub>
 
 <br>
 
