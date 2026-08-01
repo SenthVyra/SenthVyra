@@ -39,7 +39,7 @@
 | **[HABB One](https://www.habbglobal.com/one)** | Enterprise resource planning for unified finance, inventory, HR & operations |
 | **[HABB Stay](https://www.habbglobal.com/stay)** | Hotel management platform for bookings & operations |
 | **[HABB POS](https://www.habbglobal.com/pos)** | Point-of-sale system for retail & hospitality |
-| **[HABB EdGrow](https://habb.edgrow.lk)** | EdTech platform for growth & learning *(started here as a volunteer, education-focused)* |
+| **[HABB EdGrow](https://edgrow.habb.lk)** | EdTech platform for growth & learning *(started here as a volunteer, education-focused)* |
 | **OOIVU** | Hotel management SaaS by Innovay, used by hotels across Sri Lanka *(where I led marketing, Oct 2025 – Jan 2026)* |
 
 <br>
