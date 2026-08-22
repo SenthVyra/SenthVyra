@@ -19,7 +19,7 @@
 
 ### 🚀 About Me
 
-- 💻 Software Engineer, Co-Founder & CEO of **[HABB Global](https://habbglobal.com)** (Pvt) Ltd.
+- 💻 Software Engineer, Founder & CEO of **[HABB Global](https://habbglobal.com)** (Pvt) Ltd.
 - 🌍 Building products across Web, Mobile, Cloud & AI — with a presence in Sri Lanka, Switzerland, the UK, Canada & Thailand
 - 🎓 B.Sc (Hons) in IT, SLIIT — published AI/NLP research at **[IEEE ICECET 2024](https://ieeexplore.ieee.org/author/291702106974347)**
 - 🎥 YouTube partner & content creator, wearing both an engineer's and a creator's hat
