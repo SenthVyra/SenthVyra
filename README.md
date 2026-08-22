@@ -65,13 +65,6 @@
 🏆 Quick Stats
 <p align="center"> <img src="https://img.shields.io/github/followers/senthvyra?label=Followers&style=for-the-badge&color=0e75b6" /> <img src="https://img.shields.io/github/stars/senthvyra?label=Stars&style=for-the-badge&color=0e75b6" /> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/senthvyra&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=0e75b6" /> </p>
 
-<sub>ℹ️ Swapped out the trophy widget — the free github-profile-trophy.vercel.app service is currently returning a 402 Payment Required error (a billing issue on Vercel's shared free tier affecting most of these community widgets right now, not specific to this repo). These shields.io badges pull live data without depending on that service.</sub>
-
-<br>
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/senthvyra/senthvyra/output/github-contribution-grid-snake.svg" /> </p>
-
-<sub>ℹ️ This will 404 until you add the one-time GitHub Action below to your senthvyra/senthvyra repo, then push to main (or run it manually via "Run workflow"). Once it runs, it creates an output branch with the SVG and the image above will start working automatically — no further action needed after that.</sub>
 
 <br>
 
