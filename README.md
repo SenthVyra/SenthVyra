@@ -46,7 +46,8 @@
 
 ### 💼 Experience
 
-- **Co-Founder & CEO** — HABB Global · *Jan 2026 – Present*
+- **Founder & CEO** — 24hours.lk . *Oct 2026 - Present*
+- **Founder & CEO** — HABB Global · *Jan 2025 – Present*
 - **Technical Lead** — HABB Switzerland · *Jan 2026 – Present*
 - **Software Engineer** — HABB Global · *Mar 2025 – Present*
 - **Marketing Lead** — Innovay (Ooivu, hotel management SaaS) · *Oct 2025 – Jan 2026* · led digital strategy & on-ground brand execution, from campaign design to hands-on hotel demos
